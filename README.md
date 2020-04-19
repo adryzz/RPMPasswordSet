@@ -1,7 +1,7 @@
 # RPMPasswordSet
 A password changer for RemotePresentationManager
 
-Note: this is NOT meant to be secure, BUT to be secure enough for the target of RemotePresentationManager (that you can check out (here)[https://github.com/adryzz/RemotePresentationManager])
+Note: this is NOT meant to be secure, BUT to be secure enough for the target of RemotePresentationManager (that you can check out [here](https://github.com/adryzz/RemotePresentationManager))
 
 it uses SHA-512, so it is practically impossible that someone with registry access can decode the password in a reasonable time.
 
